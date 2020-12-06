@@ -1,2 +1,2 @@
 # Fractal-Landscape
-Program to generate fractal landscape using the diamond-square algorithm
+Program to generate a fractal landscape using the diamond-square algorithm
